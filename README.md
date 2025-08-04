@@ -1,3 +1,4 @@
+![Banner](https://github.com/angelaperezdata/angelaperezdata/blob/main/LinkedIn%20Banner.png)
 # Angela Perez | Data Analyst • Systems Thinker • Quality-Driven Problem Solver  
 *From patient care to public data — I translate complexity into clarity.*
 
