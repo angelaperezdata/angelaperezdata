@@ -1,37 +1,44 @@
-# Hi there, I'm Angela Perez 👋
+# Angela Perez | Data Analyst • Systems Thinker • Quality-Driven Problem Solver  
+*From patient care to public data — I translate complexity into clarity.*
 
+## 👩‍⚕️ I Got My Start in Healthcare, But I Don’t Stop There  
+For over six years, I worked in clinics and clinical research, where the data was messy, time was short, and accuracy could impact lives.  
+Whether coordinating multi-site trials, recruiting for hard-to-fill studies, or managing thousands of data points across EHRs and protocols, I became obsessed with finding the story behind the spreadsheet.
 
-I'm a Certified Medical Assistant and Clinical Research Professional transitioning into Data Analytics. With over six years of experience supporting physicians, managing patient data, and improving workflows in healthcare and clinical research settings, I bring a deep understanding of regulated environments, attention to detail, and a passion for uncovering meaningful insights through data.
+But what started in healthcare has grown into something bigger:  
+📊 A passion for **data quality, pattern recognition, and strategic insight** — across any field that needs it.
 
+## 🧠 Why Data Analytics?  
+Because real problems don’t sit in tidy dashboards. They hide in inconsistent tables, confusing trends, and siloed systems.  
+I love using **SQL**, **Excel**, and **Tableau** to transform complex data into actionable insight — whether I’m analyzing:
 
+- Healthcare access and policy trends  
+- Public health outcomes  
+- Operational inefficiencies  
+- Or the next dataset that lands in my lap
 
-### 🔍 Currently exploring:
-- Data cleaning and analysis using **SQL**, **Excel**, and **Python**  
-- Visualization and storytelling with **Google BigQuery**, **Tableau**, and **Looker Studio**  
-- Real-world analytics projects related to healthcare operations and patient outcomes
-### 💡 Projects in Progress:
-- 📊 **Patient Visit Trends Dashboard**  
-  Exploring scheduling data to optimize appointment availability and resource use
+## ⚙️ What I Work On  
+My GitHub features end-to-end projects in:
 
-- 🔍 **Clinical Trial Data Explorer**  
-  Practicing SQL queries on anonymized clinical research data to identify trends and anomalies
+- 🔍 **Data Cleaning & Validation** – Because good analysis starts with clean inputs  
+- 🏥 **Healthcare Data** – From Medi-Cal trends to birth stats and workforce gaps  
+- 📈 **Trend Analysis** – Translating raw data into clear, actionable visuals  
+- 📂 **SQL & Spreadsheet Logic** – My go-to tools for slicing complex problems  
 
-- 📁 **Portfolio Website** *(coming soon)*  
-  A professional site to showcase my projects, code, and learning journey
-### 🤝 Looking to collaborate on:
-- Entry-level or volunteer **data analytics projects**  
-- Open-source or healthcare-related initiatives  
-- Portfolio or resume feedback swaps with other learners
+My work is rooted in systems thinking, data integrity, and asking better questions — not just finding quick answers.
 
-- 🤔 I’m looking for help with ...
-### 💬 Ask me about:
-- Translating clinical workflows into structured datasets  
-- Handling messy or incomplete data  
-- Learning analytics as a career changer
-### 📫 Let’s Connect!
-- 📧 angela.perez.inbox@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/angela-perez-b15a2a368/)  
-- 📂 Portfolio: *coming soon*
-### 😄 Pronouns: she/her
-### ⚡ Fun fact:
-I still get excited when a SQL query runs without errors on the first try.
+## 🚀 What’s Next?  
+I’m looking for **remote-friendly data roles** (analyst, operations, quality, research) where I can:
+
+✅ Own the cleaning + analysis process  
+✅ Make complex data digestible for stakeholders  
+✅ Work independently or with a lean, driven team  
+✅ Grow beyond healthcare and explore new domains  
+
+## 💬 Let’s Connect  
+📧 angela.perez.inbox@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/angela-perez-07a28m16/
+📅 [Book a Call](https://calendly.com/angela-perez-inbox)
+
+## 🛠️ Inspired By  
+Open public datasets, smart visual design, and any system that still runs on spreadsheets but needs a serious upgrade.
