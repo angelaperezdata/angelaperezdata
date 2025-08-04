@@ -37,8 +37,9 @@ I’m looking for **remote-friendly data roles** (analyst, operations, quality, 
 
 ## 💬 Let’s Connect  
 📧 angela.perez.inbox@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/angela-perez-07a28m16/
+🔗 [LinkedIn](https://www.linkedin.com/in/angela-perez-07a28m16/)  
 📅 [Book a Call](https://calendly.com/angela-perez-inbox)
+
 
 ## 🛠️ Inspired By  
 Open public datasets, smart visual design, and any system that still runs on spreadsheets but needs a serious upgrade.
